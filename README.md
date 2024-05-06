@@ -76,4 +76,11 @@ To learn more about React Native, take a look at the following resources:
 - [Getting Started](https://reactnative.dev/docs/environment-setup) - an **overview** of React Native and how setup your environment.
 - [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
 - [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
-- [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+- [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.![WhatsApp Image 2024-05-06 at 10 19 34_26675cf2](https://github.com/jassinfotech/TradeX_React_Native_App/assets/81808851/811303e1-4dd9-4f09-a2ec-9d229646e29a)
+![WhatsApp Image 2024-05-06 at 10 19 33_ff497c41](https://github.com/jassinfotech/TradeX_React_Native_App/assets/81808851/80f84631-16ce-47fa-a06e-1ceb59f859f0)
+![WhatsApp Image 2024-05-06 at 10 13 27_5f69db6c](https://github.com/jassinfotech/TradeX_React_Native_App/assets/81808851/9f5adb20-2030-45db-a4e2-c7483c4f261b)
+![WhatsApp Image 2024-05-06 at 10 13 27_1c2253b4](https://github.com/jassinfotech/TradeX_React_Native_App/assets/81808851/a3927a47-e311-4661-9be6-369533cee22d)
+
+
+
+
